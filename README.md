@@ -8,23 +8,23 @@ This project provides a comprehensive exploratory data analysis, machine learnin
 ### Key Visuals
 
 #### Top 10 Categories by Installs
-![Top 10 Categories by Installs](outputs/top_categories_installs.jpg)  
+![Top 10 Categories by Installs](outputs/top_categories_installs.png)  
 Shows the dominance of categories like `GAME` and `COMMUNICATION` in terms of total installs.
 
 #### Correlation Heatmap
-![Correlation Heatmap](outputs/heatmap.jpg)  
+![Correlation Heatmap](outputs/heatmap.png)  
 Highlights weak to moderate correlations between app features such as Reviews and Installs.
 
 #### Count of Apps by Category
-![Count of Apps by Category](outputs/apps_by_category.jpg)  
+![Count of Apps by Category](outputs/apps_by_category.png)  
 Displays distribution of apps, with `FAMILY` and `GAME` being the most numerous categories.
 
 #### Installs vs. Rating by Category
-![Installs vs Rating](outputs/installs_vs_rating.jpg)  
+![Installs vs Rating](outputs/installs_vs_rating.png)  
 Scatter plot illustrating relationship between install counts and user ratings across categories.
 
 #### Distribution of App Ratings
-![Rating Distribution](outputs/rating_distribution.jpg)  
+![Rating Distribution](outputs/rating_distribution.png)  
 Shows a skew toward higher ratings around 4.0 to 4.5, typical for app store data.
 
 ## Getting Started
